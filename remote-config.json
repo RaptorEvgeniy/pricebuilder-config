@@ -1,5 +1,5 @@
 {
-  "isExcelImportEnabled": true,
+  "isExcelImportEnabled": false,
   "isGoogleSheetsImportEnabled": true,
   "isCalculatorEnabled": true,
   "isPriceBreakdownEnabled": true,
