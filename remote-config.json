@@ -1,0 +1,8 @@
+{
+  "isExcelImportEnabled": true,
+  "isGoogleSheetsImportEnabled": true,
+  "isCalculatorEnabled": true,
+  "isPriceBreakdownEnabled": true,
+  "isAppDisabled": false,
+  "disabledMessage": null
+}
